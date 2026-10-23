@@ -1,6 +1,7 @@
-M3
+GM3
 DDCO
 OS
 OOPs
 DSA
 DSA Lab
+GIT Lab
